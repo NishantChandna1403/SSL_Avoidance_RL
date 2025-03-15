@@ -1,0 +1,156 @@
+[0.000000] (-) TimerEvent: {}
+[0.000506] (hospital_robot_spawner) JobQueued: {'identifier': 'hospital_robot_spawner', 'dependencies': OrderedDict()}
+[0.000683] (hospital_robot_spawner) JobStarted: {'identifier': 'hospital_robot_spawner'}
+[0.099783] (-) TimerEvent: {}
+[0.200129] (-) TimerEvent: {}
+[0.300524] (-) TimerEvent: {}
+[0.400848] (-) TimerEvent: {}
+[0.501124] (-) TimerEvent: {}
+[0.601434] (-) TimerEvent: {}
+[0.701691] (-) TimerEvent: {}
+[0.801934] (-) TimerEvent: {}
+[0.902218] (-) TimerEvent: {}
+[1.002512] (-) TimerEvent: {}
+[1.102866] (-) TimerEvent: {}
+[1.203189] (-) TimerEvent: {}
+[1.303503] (-) TimerEvent: {}
+[1.403855] (-) TimerEvent: {}
+[1.504158] (-) TimerEvent: {}
+[1.604578] (-) TimerEvent: {}
+[1.705021] (-) TimerEvent: {}
+[1.805687] (-) TimerEvent: {}
+[1.906423] (-) TimerEvent: {}
+[2.007071] (-) TimerEvent: {}
+[2.107661] (-) TimerEvent: {}
+[2.208249] (-) TimerEvent: {}
+[2.308943] (-) TimerEvent: {}
+[2.409502] (-) TimerEvent: {}
+[2.510253] (-) TimerEvent: {}
+[2.610887] (-) TimerEvent: {}
+[2.711417] (-) TimerEvent: {}
+[2.811914] (-) TimerEvent: {}
+[2.912453] (-) TimerEvent: {}
+[3.013043] (-) TimerEvent: {}
+[3.113495] (-) TimerEvent: {}
+[3.214038] (-) TimerEvent: {}
+[3.314712] (-) TimerEvent: {}
+[3.415270] (-) TimerEvent: {}
+[3.515797] (-) TimerEvent: {}
+[3.616341] (-) TimerEvent: {}
+[3.716895] (-) TimerEvent: {}
+[3.817380] (-) TimerEvent: {}
+[3.917972] (-) TimerEvent: {}
+[4.018660] (-) TimerEvent: {}
+[4.119296] (-) TimerEvent: {}
+[4.219756] (-) TimerEvent: {}
+[4.320262] (-) TimerEvent: {}
+[4.420835] (-) TimerEvent: {}
+[4.521328] (-) TimerEvent: {}
+[4.621969] (-) TimerEvent: {}
+[4.722630] (-) TimerEvent: {}
+[4.823254] (-) TimerEvent: {}
+[4.923755] (-) TimerEvent: {}
+[5.024193] (-) TimerEvent: {}
+[5.124685] (-) TimerEvent: {}
+[5.225149] (-) TimerEvent: {}
+[5.325659] (-) TimerEvent: {}
+[5.426187] (-) TimerEvent: {}
+[5.526680] (-) TimerEvent: {}
+[5.627119] (-) TimerEvent: {}
+[5.727560] (-) TimerEvent: {}
+[5.828002] (-) TimerEvent: {}
+[5.928536] (-) TimerEvent: {}
+[6.029062] (-) TimerEvent: {}
+[6.129643] (-) TimerEvent: {}
+[6.230208] (-) TimerEvent: {}
+[6.330662] (-) TimerEvent: {}
+[6.431123] (-) TimerEvent: {}
+[6.531660] (-) TimerEvent: {}
+[6.632068] (-) TimerEvent: {}
+[6.732573] (-) TimerEvent: {}
+[6.833009] (-) TimerEvent: {}
+[6.933523] (-) TimerEvent: {}
+[7.033982] (-) TimerEvent: {}
+[7.134440] (-) TimerEvent: {}
+[7.234875] (-) TimerEvent: {}
+[7.335211] (-) TimerEvent: {}
+[7.435790] (-) TimerEvent: {}
+[7.536169] (-) TimerEvent: {}
+[7.636769] (-) TimerEvent: {}
+[7.737215] (-) TimerEvent: {}
+[7.837751] (-) TimerEvent: {}
+[7.938174] (-) TimerEvent: {}
+[8.038650] (-) TimerEvent: {}
+[8.139121] (-) TimerEvent: {}
+[8.239599] (-) TimerEvent: {}
+[8.340042] (-) TimerEvent: {}
+[8.401025] (hospital_robot_spawner) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../../build/hospital_robot_spawner', 'build', '--build-base', '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build', 'install', '--record', '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/src/Hospitalbot-Path-Planning/hospital_robot_spawner', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_IN:en', 'USER': 'nishant', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/home/nishant/.mujoco/mjpro150/bin:/usr/lib/nvidia:/usr/lib/nvidia', 'HOME': '/home/nishant', 'CONDA_SHLVL': '0', 'OLDPWD': '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '8346', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', '_CE_M': '', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'nishant', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'nishant', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', '_CE_CONDA': '', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/nishant/.mujoco/mjpro150/bin:/usr/lib/nvidia:/usr/lib/nvidia:/home/nishant/miniconda3/condabin:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/openvdb_vendor/lib:/opt/ros/humble/lib:/home/nishant/.mujoco/mjpro150/bin:/usr/lib/nvidia:/home/nishant/.mujoco/mjpro150/bin:/home/nishant/lib/nvidia:/opt/ros/humble/bin:/usr/lib/ccache:/home/nishant/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/nishant/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/nishant/Learning/swarm_ros/Micro-XRCE-DDS-Gen/scripts:/home/nishant/Learning/swarm_ros/Micro-XRCE-DDS-Gen/scripts', 'SESSION_MANAGER': 'local/nishant:@/tmp/.ICE-unix/1753,unix/nishant:/tmp/.ICE-unix/1753', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/f238dbd1_cd89_42ea_b86c_9268f3f94cd0', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LD_PRELOAD': '/usr/lib/x86_64-linux-gnu/libGLEW.so', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.YSUC32', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.139', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner:/opt/ros/humble', 'CONDA_PYTHON_EXE': '/home/nishant/miniconda3/bin/python', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'FLIGHTMARE_PATH': '/home/nishant/Desktop/flightmare', 'MUJOCO_PY_MJPRO_PATH': '/home/nishant/.mujoco/mjpro150', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'CONDA_EXE': '/home/nishant/miniconda3/bin/conda', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/python3.10/site-packages:/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[8.440168] (-) TimerEvent: {}
+[8.540317] (hospital_robot_spawner) StderrLine: {'line': b"/home/nishant/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[8.540466] (-) TimerEvent: {}
+[8.540539] (hospital_robot_spawner) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[8.623737] (hospital_robot_spawner) StdoutLine: {'line': b'running egg_info\n'}
+[8.637282] (hospital_robot_spawner) StdoutLine: {'line': b'creating ../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info\n'}
+[8.637496] (hospital_robot_spawner) StdoutLine: {'line': b'writing ../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info/PKG-INFO\n'}
+[8.637748] (hospital_robot_spawner) StdoutLine: {'line': b'writing dependency_links to ../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info/dependency_links.txt\n'}
+[8.637879] (hospital_robot_spawner) StdoutLine: {'line': b'writing entry points to ../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info/entry_points.txt\n'}
+[8.637993] (hospital_robot_spawner) StdoutLine: {'line': b'writing requirements to ../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info/requires.txt\n'}
+[8.638130] (hospital_robot_spawner) StdoutLine: {'line': b'writing top-level names to ../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info/top_level.txt\n'}
+[8.638222] (hospital_robot_spawner) StdoutLine: {'line': b"writing manifest file '../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info/SOURCES.txt'\n"}
+[8.640557] (-) TimerEvent: {}
+[8.666883] (hospital_robot_spawner) StdoutLine: {'line': b"reading manifest file '../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info/SOURCES.txt'\n"}
+[8.667932] (hospital_robot_spawner) StdoutLine: {'line': b"writing manifest file '../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info/SOURCES.txt'\n"}
+[8.668163] (hospital_robot_spawner) StdoutLine: {'line': b'running build\n'}
+[8.668275] (hospital_robot_spawner) StdoutLine: {'line': b'running build_py\n'}
+[8.668401] (hospital_robot_spawner) StdoutLine: {'line': b'creating /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner\n'}
+[8.668525] (hospital_robot_spawner) StdoutLine: {'line': b'copying hospital_robot_spawner/hospitalbot_simplified_env.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner\n'}
+[8.668736] (hospital_robot_spawner) StdoutLine: {'line': b'copying hospital_robot_spawner/trained_agent.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner\n'}
+[8.668868] (hospital_robot_spawner) StdoutLine: {'line': b'copying hospital_robot_spawner/start_training.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner\n'}
+[8.668981] (hospital_robot_spawner) StdoutLine: {'line': b'copying hospital_robot_spawner/spawn_demo.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner\n'}
+[8.669092] (hospital_robot_spawner) StdoutLine: {'line': b'copying hospital_robot_spawner/hospitalbot_env.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner\n'}
+[8.669189] (hospital_robot_spawner) StdoutLine: {'line': b'copying hospital_robot_spawner/__init__.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner\n'}
+[8.669284] (hospital_robot_spawner) StdoutLine: {'line': b'copying hospital_robot_spawner/robot_controller.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner\n'}
+[8.669395] (hospital_robot_spawner) StdoutLine: {'line': b'running install\n'}
+[8.672523] (hospital_robot_spawner) StdoutLine: {'line': b'running install_lib\n'}
+[8.686403] (hospital_robot_spawner) StdoutLine: {'line': b'copying /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner/trained_agent.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/python3.10/site-packages/hospital_robot_spawner\n'}
+[8.686626] (hospital_robot_spawner) StdoutLine: {'line': b'copying /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/build/lib/hospital_robot_spawner/start_training.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/python3.10/site-packages/hospital_robot_spawner\n'}
+[8.687075] (hospital_robot_spawner) StdoutLine: {'line': b'byte-compiling /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/python3.10/site-packages/hospital_robot_spawner/trained_agent.py to trained_agent.cpython-310.pyc\n'}
+[8.687630] (hospital_robot_spawner) StdoutLine: {'line': b'byte-compiling /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/python3.10/site-packages/hospital_robot_spawner/start_training.py to start_training.cpython-310.pyc\n'}
+[8.688631] (hospital_robot_spawner) StdoutLine: {'line': b'running install_data\n'}
+[8.688857] (hospital_robot_spawner) StdoutLine: {'line': b'copying resource/hospital_robot_spawner -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/ament_index/resource_index/packages\n'}
+[8.689015] (hospital_robot_spawner) StdoutLine: {'line': b'copying package.xml -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner\n'}
+[8.689171] (hospital_robot_spawner) StdoutLine: {'line': b'copying launch/start_training.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch\n'}
+[8.689288] (hospital_robot_spawner) StdoutLine: {'line': b'copying launch/discretized_hospital.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch\n'}
+[8.689414] (hospital_robot_spawner) StdoutLine: {'line': b'copying launch/headless_world.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch\n'}
+[8.689532] (hospital_robot_spawner) StdoutLine: {'line': b'copying launch/gazebo_world.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch\n'}
+[8.689674] (hospital_robot_spawner) StdoutLine: {'line': b'copying launch/trained_agent.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch\n'}
+[8.689781] (hospital_robot_spawner) StdoutLine: {'line': b'copying launch/test.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch\n'}
+[8.689896] (hospital_robot_spawner) StdoutLine: {'line': b'copying config/training_parameters.yaml -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/config\n'}
+[8.690008] (hospital_robot_spawner) StdoutLine: {'line': b'copying worlds/hospital_training.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/worlds\n'}
+[8.690142] (hospital_robot_spawner) StdoutLine: {'line': b'copying worlds/hospital.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/worlds\n'}
+[8.690258] (hospital_robot_spawner) StdoutLine: {'line': b'copying worlds/test.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/worlds\n'}
+[8.690372] (hospital_robot_spawner) StdoutLine: {'line': b'copying worlds/hospital_discretized.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/worlds\n'}
+[8.690505] (hospital_robot_spawner) StdoutLine: {'line': b'copying models/mobile_warehouse_robot/model.sdf -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/mobile_warehouse_robot\n'}
+[8.690636] (hospital_robot_spawner) StdoutLine: {'line': b'copying models/mobile_warehouse_robot/model.config -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/mobile_warehouse_robot\n'}
+[8.690759] (hospital_robot_spawner) StdoutLine: {'line': b'copying models/pioneer3at/model.sdf -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/pioneer3at\n'}
+[8.690888] (hospital_robot_spawner) StdoutLine: {'line': b'copying models/pioneer3at/model.config -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/pioneer3at\n'}
+[8.691016] (hospital_robot_spawner) StdoutLine: {'line': b'copying models/Target/model.sdf -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/Target\n'}
+[8.691129] (hospital_robot_spawner) StdoutLine: {'line': b'copying models/Target/model.config -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/Target\n'}
+[8.691249] (hospital_robot_spawner) StdoutLine: {'line': b'copying worlds/hospital_training.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models\n'}
+[8.691370] (hospital_robot_spawner) StdoutLine: {'line': b'copying worlds/hospital.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models\n'}
+[8.691484] (hospital_robot_spawner) StdoutLine: {'line': b'copying worlds/test.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models\n'}
+[8.691654] (hospital_robot_spawner) StdoutLine: {'line': b'copying worlds/hospital_discretized.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models\n'}
+[8.691764] (hospital_robot_spawner) StdoutLine: {'line': b'running install_egg_info\n'}
+[8.706447] (hospital_robot_spawner) StdoutLine: {'line': b"removing '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/python3.10/site-packages/hospital_robot_spawner-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[8.706842] (hospital_robot_spawner) StdoutLine: {'line': b'Copying ../../../build/hospital_robot_spawner/hospital_robot_spawner.egg-info to /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/python3.10/site-packages/hospital_robot_spawner-0.0.0-py3.10.egg-info\n'}
+[8.708096] (hospital_robot_spawner) StdoutLine: {'line': b'running install_scripts\n'}
+[8.740606] (-) TimerEvent: {}
+[8.823623] (hospital_robot_spawner) StdoutLine: {'line': b'Installing spawn_demo script to /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/hospital_robot_spawner\n'}
+[8.823884] (hospital_robot_spawner) StdoutLine: {'line': b'Installing start_training script to /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/hospital_robot_spawner\n'}
+[8.824030] (hospital_robot_spawner) StdoutLine: {'line': b'Installing trained_agent script to /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/hospital_robot_spawner\n'}
+[8.824239] (hospital_robot_spawner) StdoutLine: {'line': b"writing list of installed files to '/home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/install.log'\n"}
+[8.840700] (-) TimerEvent: {}
+[8.847092] (hospital_robot_spawner) CommandEnded: {'returncode': 0}
+[8.940869] (-) TimerEvent: {}
+[9.010901] (hospital_robot_spawner) JobEnded: {'identifier': 'hospital_robot_spawner', 'rc': 0}
+[9.012948] (-) EventReactorShutdown: {}

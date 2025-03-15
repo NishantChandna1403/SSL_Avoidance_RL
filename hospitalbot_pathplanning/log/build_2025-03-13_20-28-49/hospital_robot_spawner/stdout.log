@@ -1,0 +1,40 @@
+running develop
+running egg_info
+writing hospital_robot_spawner.egg-info/PKG-INFO
+writing dependency_links to hospital_robot_spawner.egg-info/dependency_links.txt
+writing entry points to hospital_robot_spawner.egg-info/entry_points.txt
+writing requirements to hospital_robot_spawner.egg-info/requires.txt
+writing top-level names to hospital_robot_spawner.egg-info/top_level.txt
+reading manifest file 'hospital_robot_spawner.egg-info/SOURCES.txt'
+writing manifest file 'hospital_robot_spawner.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/python3.10/site-packages/hospital-robot-spawner.egg-link (link to .)
+Installing spawn_demo script to /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/hospital_robot_spawner
+Installing start_training script to /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/hospital_robot_spawner
+Installing trained_agent script to /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/lib/hospital_robot_spawner
+
+Installed /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner
+running symlink_data
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/resource/hospital_robot_spawner -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/ament_index/resource_index/packages
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/package.xml -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/launch/start_training.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/launch/discretized_hospital.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/launch/headless_world.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/launch/gazebo_world.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/launch/trained_agent.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/launch/test.launch.py -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/launch
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/config/training_parameters.yaml -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/config
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/worlds/hospital_training.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/worlds
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/worlds/hospital.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/worlds
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/worlds/test.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/worlds
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/worlds/hospital_discretized.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/worlds
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/models/mobile_warehouse_robot/model.sdf -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/mobile_warehouse_robot
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/models/mobile_warehouse_robot/model.config -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/mobile_warehouse_robot
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/models/pioneer3at/model.sdf -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/pioneer3at
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/models/pioneer3at/model.config -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/pioneer3at
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/models/Target/model.sdf -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/Target
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/models/Target/model.config -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models/Target
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/worlds/hospital_training.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/worlds/hospital.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/worlds/test.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models
+symbolically linking /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/build/hospital_robot_spawner/worlds/hospital_discretized.world -> /home/nishant/Desktop/Projects/Navigation_/hospitalbot_pathplanning/install/hospital_robot_spawner/share/hospital_robot_spawner/models
